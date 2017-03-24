@@ -1,0 +1,15 @@
+.unimportant{
+  float: right;
+}
+.important{
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: center;
+  background-color: yellow;
+}
+.column {
+  background-color: pink;
+  float: right;
+}
